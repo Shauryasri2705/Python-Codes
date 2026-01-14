@@ -1,0 +1,38 @@
+# Arithmetic Operator
+
+from numpy import equal
+
+
+a = 4
+b =5
+c = a+b
+print(c)
+
+# Assignment Operator
+
+a = 34 - 23
+print(a)
+b = 7
+b += 3
+print(b)
+b -= 5
+print(b)
+
+# Comparison Operator
+
+a = 7 == 6 
+print(a)
+
+b = 7 !=8
+print(b)
+
+# Logical Operator
+
+a = True or False 
+print(a)
+
+b = True and False
+print(b)
+
+c = not True
+print(c)
